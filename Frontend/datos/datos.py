@@ -1,0 +1,117 @@
+# Datos de prueba para Socios (compacto)
+datos_de_prueba = [
+    {"numero_control":"01","nombres":"Ana Sofía","apellidos":"García Mendoza","cedula":"12345678","numero_telefono":"04121234567","direccion":"San Crs/Urb. Las Flores/Av. Ppal #123","rif":"V123456789","fecha_nacimiento":"1985-03-15"},
+    {"numero_control":"02","nombres":"Luis Carlos","apellidos":"Pérez Rodríguez","cedula":"23456789","numero_telefono":"04141234568","direccion":"San Crs/Res. El Parque/Cll 5 c Av 6","rif":"E234567890","fecha_nacimiento":"1990-07-22"},
+    {"numero_control":"03","nombres":"María José","apellidos":"González Silva","cedula":"34567890","numero_telefono":"04241234569","direccion":"San Crs/La Floresta/Cll Los Pi","rif":"J345678901","fecha_nacimiento":"1988-11-30"},
+    {"numero_control":"04","nombres":"Pedro Antonio","apellidos":"Martínez López","cedula":"45678901","numero_telefono":"04161234570","direccion":"San Crs/Urb. Los Samanes/Casa #45","rif":"V456789012","fecha_nacimiento":"1992-05-18"},
+    {"numero_control":"05","nombres":"Carlos Eduardo","apellidos":"Hernández Rojas","cedula":"56789012","numero_telefono":"04261234571","direccion":"San Crs/Av. Bolívar/Edif. Cen P 3","rif":"E567890123","fecha_nacimiento":"1987-09-10"},
+    {"numero_control":"06","nombres":"Laura Valentina","apellidos":"Díaz Castillo","cedula":"67890123","numero_telefono":"04171234572","direccion":"San Crs/Callejón Los Mangos #78","rif":"J678901234","fecha_nacimiento":"1995-02-28"},
+    {"numero_control":"07","nombres":"José Gregorio","apellidos":"Ramírez Suárez","cedula":"78901234","numero_telefono":"04271234573","direccion":"San Crs/El Valle/Res. Don Pe","rif":"V789012345","fecha_nacimiento":"1983-12-05"},
+    {"numero_control":"08","nombres":"Gabriela Alejandra","apellidos":"Torres Méndez","cedula":"89012345","numero_telefono":"04181234574","direccion":"San Crs/Urb. Los Naranjos/Casa #12","rif":"E890123456","fecha_nacimiento":"1991-04-17"},
+    {"numero_control":"09","nombres":"Ricardo Andrés","apellidos":"Vargas Fernández","cedula":"90123456","numero_telefono":"04281234575","direccion":"San Crs/Av. Las Delicias/Edif. Hor","rif":"J901234567","fecha_nacimiento":"1989-08-21"},
+    {"numero_control":"10","nombres":"Isabel Cristina","apellidos":"Morales Jiménez","cedula":"01234567","numero_telefono":"04191234576","direccion":"San Crs/Calle Los Jardines #34","rif":"V012345678","fecha_nacimiento":"1993-06-14"},
+    {"numero_control":"11","nombres":"Miguel Ángel","apellidos":"Rojas González","cedula":"12345098","numero_telefono":"04291234577","direccion":"San Crs/La Candelaria/Casa #56","rif":"E123450989","fecha_nacimiento":"1986-10-30"},
+    {"numero_control":"12","nombres":"Patricia Carolina","apellidos":"Silva Mendoza","cedula":"23456109","numero_telefono":"04102234578","direccion":"San Crs/Urb. Los Pinos/Cll Ppal","rif":"J234561090","fecha_nacimiento":"1994-01-25"},
+    {"numero_control":"13","nombres":"Jorge Luis","apellidos":"Castillo Rivas","cedula":"34567210","numero_telefono":"04212234579","direccion":"San Crs/Av. Universidad/Edif. DL","rif":"V345672101","fecha_nacimiento":"1984-07-08"},
+    {"numero_control":"14","nombres":"Daniela Alejandra","apellidos":"Mendoza Pérez","cedula":"45678321","numero_telefono":"04122234580","direccion":"San Crs/Calle Los Girasoles #89","rif":"E456783212","fecha_nacimiento":"1990-03-12"},
+    {"numero_control":"15","nombres":"Roberto Carlos","apellidos":"Fernández Díaz","cedula":"56789432","numero_telefono":"04232234581","direccion":"San Crs/Santa Rosa/Res. El A","rif":"J567894323","fecha_nacimiento":"1988-11-19"},
+]
+
+
+# Vehículos
+datos_vehiculos_de_prueba = [
+    {"control":"01","cedula":"12345678","marca":"Toyota","modelo":"Corolla","anio":2015,"placa":"ABC123"},
+    {"control":"02","cedula":"87654321","marca":"Chevrolet","modelo":"Spark","anio":2018,"placa":"DEF456"},
+    {"control":"03","cedula":"11223344","marca":"Ford","modelo":"Focus","anio":2012,"placa":"GHI789"},
+    {"control":"04","cedula":"44332211","marca":"Nissan","modelo":"Versa","anio":2020,"placa":"JKL012"},
+    {"control":"05","cedula":"55667788","marca":"Hyundai","modelo":"Accent","anio":2016,"placa":"MNO345"},
+    {"control":"06","cedula":"88776655","marca":"Kia","modelo":"Rio","anio":2019,"placa":"PQR678"},
+    {"control":"07","cedula":"99887766","marca":"Renault","modelo":"Logan","anio":2014,"placa":"STU901"},
+    {"control":"08","cedula":"66778899","marca":"Honda","modelo":"Civic","anio":2021,"placa":"VWX234"},
+    {"control":"09","cedula":"10111213","marca":"Mazda","modelo":"3","anio":2017,"placa":"YZA567"},
+    {"control":"10","cedula":"13121110","marca":"Volkswagen","modelo":"Jetta","anio":2013,"placa":"BCD890"},
+    {"control":"11","cedula":"14151617","marca":"BMW","modelo":"X3","anio":2022,"placa":"EFG123"},
+    {"control":"12","cedula":"17161514","marca":"Mercedes","modelo":"C-Class","anio":2018,"placa":"HIJ456"},
+    {"control":"13","cedula":"18192021","marca":"Audi","modelo":"A4","anio":2019,"placa":"KLM789"},
+    {"control":"14","cedula":"21201918","marca":"Fiat","modelo":"Uno","anio":2011,"placa":"NOP012"},
+    {"control":"15","cedula":"22232425","marca":"Peugeot","modelo":"208","anio":2016,"placa":"QRS345"},
+    {"control":"16","cedula":"25242322","marca":"Citroën","modelo":"C3","anio":2014,"placa":"TUV678"},
+    {"control":"17","cedula":"26272829","marca":"Suzuki","modelo":"Swift","anio":2020,"placa":"WXY901"},
+    {"control":"18","cedula":"29282726","marca":"Mitsubishi","modelo":"Lancer","anio":2013,"placa":"ZAB234"},
+    {"control":"19","cedula":"30313233","marca":"Subaru","modelo":"Impreza","anio":2017,"placa":"CDE567"},
+    {"control":"20","cedula":"33323130","marca":"Dodge","modelo":"Charger","anio":2021,"placa":"FGH890"},
+]
+
+
+# Avances
+datos_avances_de_prueba = [
+    {"control":"01","nombre":"Carlos","apellido":"López","fecha_nacimiento":"1990-02-15","rif":"V123456789","cedula_avance":"V-22334455","telefono":"04141234567"},
+    {"control":"02","nombre":"María","apellido":"González","fecha_nacimiento":"1988-07-22","rif":"V987654321","cedula_avance":"V-33445566","telefono":"04142345678"},
+    {"control":"03","nombre":"José","apellido":"Martínez","fecha_nacimiento":"1992-05-30","rif":"V555666777","cedula_avance":"V-44556677","telefono":"04143456789"},
+    {"control":"04","nombre":"Ana","apellido":"Ramírez","fecha_nacimiento":"1995-11-10","rif":"V111222333","cedula_avance":"V-55667788","telefono":"04144567890"},
+    {"control":"05","nombre":"Luis","apellido":"Pérez","fecha_nacimiento":"1987-09-05","rif":"V444555666","cedula_avance":"V-66778899","telefono":"04145678901"},
+    {"control":"06","nombre":"Lucía","apellido":"Hernández","fecha_nacimiento":"1991-03-18","rif":"V222333444","cedula_avance":"V-77889900","telefono":"04146789012"},
+    {"control":"07","nombre":"Javier","apellido":"Torres","fecha_nacimiento":"1989-12-25","rif":"V333444555","cedula_avance":"V-88990011","telefono":"04147890123"},
+    {"control":"08","nombre":"Sofía","apellido":"Vargas","fecha_nacimiento":"1993-08-08","rif":"V666777888","cedula_avance":"V-99001122","telefono":"04148901234"},
+    {"control":"09","nombre":"Fernando","apellido":"Rojas","fecha_nacimiento":"1986-04-12","rif":"V777888999","cedula_avance":"V-00112233","telefono":"04149012345"},
+    {"control":"10","nombre":"Patricia","apellido":"Salazar","fecha_nacimiento":"1994-01-27","rif":"V888999000","cedula_avance":"V-11223344","telefono":"04140123456"},
+    {"control":"11","nombre":"Andrés","apellido":"Mendoza","fecha_nacimiento":"1990-06-14","rif":"V999000111","cedula_avance":"V-22334455","telefono":"04141234567"},
+    {"control":"12","nombre":"Gabriela","apellido":"Castillo","fecha_nacimiento":"1985-10-02","rif":"V000111222","cedula_avance":"V-33445566","telefono":"04142345678"},
+    {"control":"13","nombre":"Diego","apellido":"Ruiz","fecha_nacimiento":"1992-03-21","rif":"V111222333","cedula_avance":"V-44556677","telefono":"04143456789"},
+    {"control":"14","nombre":"Valeria","apellido":"Santos","fecha_nacimiento":"1996-07-13","rif":"V222333444","cedula_avance":"V-55667788","telefono":"04144567890"},
+    {"control":"15","nombre":"Ricardo","apellido":"Moreno","fecha_nacimiento":"1988-11-29","rif":"V333444555","cedula_avance":"V-66778899","telefono":"04145678901"},
+    {"control":"16","nombre":"Natalia","apellido":"Gómez","fecha_nacimiento":"1991-02-03","rif":"V444555666","cedula_avance":"V-77889900","telefono":"04146789012"},
+    {"control":"17","nombre":"Miguel","apellido":"Luna","fecha_nacimiento":"1987-05-19","rif":"V555666777","cedula_avance":"V-88990011","telefono":"04147890123"},
+    {"control":"18","nombre":"Daniela","apellido":"Reyes","fecha_nacimiento":"1993-09-07","rif":"V666777888","cedula_avance":"V-99001122","telefono":"04148901234"},
+    {"control":"19","nombre":"Óscar","apellido":"Herrera","fecha_nacimiento":"1986-12-05","rif":"V777888999","cedula_avance":"V-00112233","telefono":"04149012345"},
+    {"control":"20","nombre":"Mariana","apellido":"Páez","fecha_nacimiento":"1995-04-16","rif":"V888999000","cedula_avance":"V-11223344","telefono":"04140123456"},
+]
+
+# Sanciones (compacto)
+datos_sanciones_de_prueba = [
+    {"cedula_socio":"V12345678","nombre":"Ana Sofía","apellido":"García Mendoza","inicio_sancion":"2025-01-10","fin_sancion":"2025-02-10","monto":150.00,"motivo":"Retraso en entregas"},
+    {"cedula_socio":"V87654321","nombre":"Luis Fernando","apellido":"Pérez López","inicio_sancion":"2025-02-01","fin_sancion":"2025-02-15","monto":200.00,"motivo":"Falta de documentación"},
+    {"cedula_socio":"V11223344","nombre":"María Fernanda","apellido":"Rodríguez Silva","inicio_sancion":"2025-03-05","fin_sancion":"2025-03-20","monto":120.00,"motivo":"Incumplimiento de ruta"},
+    {"cedula_socio":"E22334455","nombre":"José Antonio","apellido":"Martínez Díaz","inicio_sancion":"2025-01-20","fin_sancion":"2025-02-05","monto":180.00,"motivo":"Daño al vehículo"},
+    {"cedula_socio":"V33445566","nombre":"Carolina","apellido":"Hernández Gómez","inicio_sancion":"2025-02-12","fin_sancion":"2025-02-28","monto":100.00,"motivo":"Falta de asistencia"},
+    {"cedula_socio":"V44556677","nombre":"Miguel Ángel","apellido":"López Fernández","inicio_sancion":"2025-03-15","fin_sancion":"2025-04-01","monto":160.00,"motivo":"Uso indebido de permisos"},
+    {"cedula_socio":"E55667788","nombre":"Lucía Beatriz","apellido":"Suárez Paredes","inicio_sancion":"2025-01-08","fin_sancion":"2025-01-22","monto":140.00,"motivo":"Reclamaciones de pasajeros"},
+    {"cedula_socio":"V66778899","nombre":"Andrés Ramón","apellido":"Castillo Peña","inicio_sancion":"2025-02-18","fin_sancion":"2025-03-04","monto":175.00,"motivo":"Exceso de velocidad"},
+    {"cedula_socio":"V77889900","nombre":"Patricia","apellido":"Martínez Ruiz","inicio_sancion":"2025-03-01","fin_sancion":"2025-03-15","monto":130.00,"motivo":"Falta de equipamiento"},
+    {"cedula_socio":"E88990011","nombre":"Carlos Eduardo","apellido":"González Moreno","inicio_sancion":"2025-01-25","fin_sancion":"2025-02-10","monto":190.00,"motivo":"Incumplimiento de normas"},
+    {"cedula_socio":"V99001122","nombre":"Sofía Isabel","apellido":"Vargas Salas","inicio_sancion":"2025-02-05","fin_sancion":"2025-02-20","monto":110.00,"motivo":"Ausencia injustificada"},
+    {"cedula_socio":"V00112233","nombre":"Fernando","apellido":"Rojas Herrera","inicio_sancion":"2025-03-10","fin_sancion":"2025-03-25","monto":170.00,"motivo":"Mantenimiento tardío"},
+    {"cedula_socio":"V11223344","nombre":"Patricia Elena","apellido":"Salazar Gil","inicio_sancion":"2025-01-30","fin_sancion":"2025-02-14","monto":145.00,"motivo":"Cobro indebido"},
+    {"cedula_socio":"V22334455","nombre":"Andrés Felipe","apellido":"Mendoza López","inicio_sancion":"2025-02-22","fin_sancion":"2025-03-08","monto":155.00,"motivo":"Retraso sin aviso"},
+    {"cedula_socio":"V33445566","nombre":"Gabriela","apellido":"Castillo Pérez","inicio_sancion":"2025-03-18","fin_sancion":"2025-04-02","monto":165.00,"motivo":"Actitud inapropiada"},
+    {"cedula_socio":"E44556677","nombre":"Diego","apellido":"Ruiz Torres","inicio_sancion":"2025-01-12","fin_sancion":"2025-01-27","monto":135.00,"motivo":"Falta de seguro"},
+    {"cedula_socio":"V55667788","nombre":"Valeria","apellido":"Santos Gómez","inicio_sancion":"2025-02-28","fin_sancion":"2025-03-15","monto":150.00,"motivo":"Infracción de tráfico"},
+    {"cedula_socio":"V66778899","nombre":"Ricardo","apellido":"Moreno Díaz","inicio_sancion":"2025-03-03","fin_sancion":"2025-03-18","monto":180.00,"motivo":"Daño a propiedad ajena"},
+    {"cedula_socio":"E77889900","nombre":"Natalia","apellido":"Gómez Reyes","inicio_sancion":"2025-01-18","fin_sancion":"2025-02-02","monto":140.00,"motivo":"Incumplimiento de contrato"},
+    {"cedula_socio":"V88990011","nombre":"Miguel Ángel","apellido":"Luna Vásquez","inicio_sancion":"2025-02-15","fin_sancion":"2025-03-02","monto":175.00,"motivo":"Uso indebido de tarjeta"},
+]
+
+
+# Datos de prueba para la sección de Finanzas (20 registros)
+datos_finanzas_de_prueba = [
+    {"control":"01","cedula":"12345678","pagos_mensuales":1000.00,"impuestos_anuales":1200.00,"fecha_pago":"2025-01-05"},
+    {"control":"02","cedula":"23456789","pagos_mensuales":1100.00,"impuestos_anuales":1300.00,"fecha_pago":"2025-01-10"},
+    {"control":"03","cedula":"34567890","pagos_mensuales":1200.00,"impuestos_anuales":1400.00,"fecha_pago":"2025-02-01"},
+    {"control":"04","cedula":"45678901","pagos_mensuales":900.00, "impuestos_anuales":1150.00,"fecha_pago":"2025-02-12"},
+    {"control":"05","cedula":"56789012","pagos_mensuales":1500.00,"impuestos_anuales":1600.00,"fecha_pago":"2025-03-03"},
+    {"control":"06","cedula":"67890123","pagos_mensuales":1300.00,"impuestos_anuales":1550.00,"fecha_pago":"2025-03-15"},
+    {"control":"07","cedula":"78901234","pagos_mensuales":950.00, "impuestos_anuales":1100.00,"fecha_pago":"2025-04-05"},
+    {"control":"08","cedula":"89012345","pagos_mensuales":1050.00,"impuestos_anuales":1250.00,"fecha_pago":"2025-04-20"},
+    {"control":"09","cedula":"90123456","pagos_mensuales":1150.00,"impuestos_anuales":1350.00,"fecha_pago":"2025-05-02"},
+    {"control":"10","cedula":"01234567","pagos_mensuales":1250.00,"impuestos_anuales":1450.00,"fecha_pago":"2025-05-18"},
+    {"control":"11","cedula":"11223344","pagos_mensuales":1350.00,"impuestos_anuales":1500.00,"fecha_pago":"2025-06-01"},
+    {"control":"12","cedula":"22334455","pagos_mensuales":1400.00,"impuestos_anuales":1600.00,"fecha_pago":"2025-06-10"},
+    {"control":"13","cedula":"33445566","pagos_mensuales":950.00, "impuestos_anuales":1150.00,"fecha_pago":"2025-07-05"},
+    {"control":"14","cedula":"44556677","pagos_mensuales":1020.00,"impuestos_anuales":1220.00,"fecha_pago":"2025-07-15"},
+    {"control":"15","cedula":"55667788","pagos_mensuales":1180.00,"impuestos_anuales":1380.00,"fecha_pago":"2025-08-01"},
+    {"control":"16","cedula":"66778899","pagos_mensuales":1270.00,"impuestos_anuales":1470.00,"fecha_pago":"2025-08-12"},
+    {"control":"17","cedula":"77889900","pagos_mensuales":1420.00,"impuestos_anuales":1620.00,"fecha_pago":"2025-09-03"},
+    {"control":"18","cedula":"88990011","pagos_mensuales":1550.00,"impuestos_anuales":1750.00,"fecha_pago":"2025-09-18"},
+    {"control":"19","cedula":"99001122","pagos_mensuales":1650.00,"impuestos_anuales":1850.00,"fecha_pago":"2025-10-02"},
+    {"control":"20","cedula":"00112233","pagos_mensuales":1750.00,"impuestos_anuales":1950.00,"fecha_pago":"2025-10-15"},
+]
