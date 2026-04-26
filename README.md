@@ -61,8 +61,8 @@ sistema-taxis/
 
 ### 1. Clonar repositorio
 ```bash
-git clone https://github.com/tuusuario/sistema-taxis.git
-cd sistema-taxis
+git clone https://github.com/isairey/SistemaTaxisOnline.git
+cd SistemaTaxisOnline
 ```
 ### 2. Crear entorno virtual
 ```
