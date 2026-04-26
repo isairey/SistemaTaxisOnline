@@ -43,7 +43,7 @@ El sistema permite centralizar la información y mejorar la organización de los
 
 ## 📂 Estructura del proyecto
 
-
+```
 sistema-taxis/
 │
 ├── 📁 Backend/
@@ -53,7 +53,7 @@ sistema-taxis/
 ├── 📁 env/
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
@@ -104,6 +104,8 @@ Backup disponible en:
 
 El sistema opera mediante la conexión entre frontend y backend a través de una API REST, permitiendo gestionar la información en tiempo real.
 
+---
+
 ## 📈 Mejoras futuras
 
 - 📱 Aplicación móvil
@@ -114,6 +116,7 @@ El sistema opera mediante la conexión entre frontend y backend a través de una
 ## 👨‍💻 Autor
 
 Desarrollado por Isai Reyes Peña
+
 ---
 ## 📄 Licencia
 
